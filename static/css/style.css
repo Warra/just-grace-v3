@@ -64,3 +64,17 @@
 .btn-style {
     margin: 1em 0 1em 0;
 }
+
+.foot {
+    padding-top: 2em;
+    background-color: black;
+    color: #939393;
+}
+
+.foot-header {
+    margin-bottom: 0 !important;
+}
+
+.foot b {
+    color: white;
+}
