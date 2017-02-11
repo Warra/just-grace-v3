@@ -1,0 +1,66 @@
+.relative {
+    position: relative !important;
+}
+
+/*Index Page*/
+.margins{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+
+.nav {
+    background-color: rgba(96,32,15,0.7);
+}
+
+.index-background {
+    background:url('../images/index-background.JPG');
+    background-size: cover;
+    position: relative;
+}
+
+.body-layer {
+    background-color: rgba(197,59,24,0.7);
+}
+
+.index-content-block {
+    color: white;
+}
+
+.index-content-block h2, p {
+    color: white;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.index-content-block-header-thin {
+    color: white;
+    margin: 0 0 0 0;
+    font-weight: 200;
+}
+
+.index-content-block-thin-text {
+    font-weight: 100;
+}
+
+.box {
+    padding: 15em 0 3em 0 ;
+}
+
+.index-info {
+    margin: 5% 20% 0 20% !important;
+}
+
+.index-info-2 {
+    margin: 0 20% 5% 20% !important;
+}
+
+.index-info p {
+    color: black;
+    margin: 0 0 0 0;
+    font-weight: 400;
+    text-align: center;
+}
+
+.btn-style {
+    margin: 1em 0 1em 0;
+}
