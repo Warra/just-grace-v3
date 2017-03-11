@@ -13,7 +13,7 @@
 }
 
 .index-background {
-    background:url('../images/index-background.JPG');
+    background:url('../images/index-background.jpg');
     background-size: cover;
     position: relative;
 }
@@ -85,9 +85,10 @@
 
 /*About Page*/
 .about-background {
-    background:url('../images/index-background.JPG');
+    background:url('../images/about-background-min.jpg');
     background-size: cover;
-    position: relative;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .about-block {
@@ -108,9 +109,10 @@
 }
 
 .initiatives-background {
-    background:url('../images/index-background.JPG');
+    background:url('../images/initiatives-background-min.jpg');
     background-size: cover;
-    position: relative;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .initiatives-block a{
