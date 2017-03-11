@@ -82,3 +82,10 @@
 .row-foot {
     margin-bottom: 0px !important;
 }
+
+/*About Page*/
+.about-background {
+    background:url('../images/index-background.JPG');
+    background-size: cover;
+    position: relative;
+}

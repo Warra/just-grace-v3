@@ -89,3 +89,17 @@
     background-size: cover;
     position: relative;
 }
+
+.about-block {
+    padding: 3em 25em 10em 25em;
+}
+
+.about-block h3 {
+    color: white;
+}
+
+.about-block img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
