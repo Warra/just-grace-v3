@@ -92,13 +92,33 @@
 
 .about-block {
     padding: 3em 25em 10em 25em;
-}
-
-.about-block h3 {
     color: white;
 }
 
 .about-block img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Initiatives Page*/
+.initiatives-block {
+    padding: 3em 10em 5em 20em;
+    color: white;
+}
+
+.initiatives-background {
+    background:url('../images/index-background.JPG');
+    background-size: cover;
+    position: relative;
+}
+
+.initiatives-block a{
+    color: white;
+    text-decoration: underline;
+}
+
+.initiatives-block img {
     display: block;
     margin-left: auto;
     margin-right: auto;
