@@ -66,6 +66,19 @@
 }
 
 .foot {
+    padding-top: 2em;
     background-color: black;
+    color: #939393;
+}
+
+.foot-header {
+    margin-bottom: 0 !important;
+}
+
+.foot b {
     color: white;
+}
+
+.row-foot {
+    margin-bottom: 0px !important;
 }
