@@ -14,5 +14,5 @@
             To promote social justice and equality in Langa and to foster a spirit of community collaboration and upliftment.
         </p>
         <h4>Our Values</h4>
-        <img src="/images/values-picture.png">
+        <img class="content-image" src="/images/values-picture.png">
     </div>

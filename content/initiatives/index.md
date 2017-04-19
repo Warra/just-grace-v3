@@ -60,7 +60,7 @@
             <p>
                 According to Eugene Daniels, a former district director in the Western Cape, only 1 in 10 pupils who pass Matric is likely to get a job.
             </p>
-            <img src="/images/education-crisis.png">
+            <img class="content-image" src="/images/education-crisis.png">
             <p>
                 According to a report released in 2013 by the World Economic Forum, South Africa’s education system has been ranked 140th out of 144 countries. South Africa’s maths and science education has been ranked second last in the world, ahead only of Yemen.
                 <br>
